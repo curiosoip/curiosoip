@@ -4,7 +4,7 @@ My name is Fabricio (@curiosoip), I from Bolivia and I live La paz city
 
 my passion is technology and science.
 
-I am Software engineer and CEO/Founder in Biidix [website](https://www.biidix.com)
+I am Software engineer and CEO/Founder in Biidix [biidix.com](https://www.biidix.com/)
 
 ## Skills
 
@@ -14,5 +14,5 @@ I am Software engineer and CEO/Founder in Biidix [website](https://www.biidix.co
 
 ## Contact
 
-my personal website where you can find me is: [website](https://www.curiosoip.com)
+my personal website where you can find me is: [curiosoip.com](https://www.curiosoip.com/)
 where I share my own knowledge and research
