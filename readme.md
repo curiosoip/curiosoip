@@ -11,6 +11,7 @@ I am Software engineer and CEO/Founder in Biidix [biidix.com](https://www.biidix
 * FullStack Developer 
 * Unity developer for video games and immersive experiences
 * I have experience in devops technology with AWS. 
+* I have experience in good development practices and SOLID principles as well as clean design patterns and architecture.
 
 ## Contact
 
