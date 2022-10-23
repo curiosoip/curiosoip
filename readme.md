@@ -16,7 +16,7 @@ I am Software engineer and CEO/Founder at [biidix.com](https://www.biidix.com/)
 ## Contact
 
 my personal website where you can find me is: [curiosoip.com](https://www.curiosoip.com/)
-where I share my own knowledge and research
+where I share my own knowledge and research in Spanish
 
 
 
